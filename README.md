@@ -70,7 +70,7 @@ Backend project structuring
 
 📌 Author
 
-Name: Sanket Kolhe
+Name: Bhavesh Bagul
 
 Internship: Feb 2026 FastAPI Internship
 
